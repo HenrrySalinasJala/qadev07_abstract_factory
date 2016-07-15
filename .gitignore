@@ -98,3 +98,4 @@ target/
 movies/target/
 movies/movies.iml
 /*.iml
+pom.xml
